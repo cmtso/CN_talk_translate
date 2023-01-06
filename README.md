@@ -15,3 +15,8 @@
 
 
 The whole process for a 20 min. talk should take less than an hour once you are getting used to it.
+
+
+---
+Helpful links
+- [Merge documents into alternating lines](https://superuser.com/questions/1516183/how-to-merge-two-ms-word-documents-into-alternating-lines)
