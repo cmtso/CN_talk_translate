@@ -19,4 +19,4 @@ The whole process for a 20 min. talk should take less than an hour once you are 
 
 ---
 Helpful links
-- [Merge documents into alternating lines](https://superuser.com/questions/1516183/how-to-merge-two-ms-word-documents-into-alternating-lines)
+- [Merge documents into alternating lines](https://superuser.com/questions/1516183/how-to-merge-two-ms-word-documents-into-alternating-lines) (For step 1 'convert text to table', check 'paragraph' is probably fine)
